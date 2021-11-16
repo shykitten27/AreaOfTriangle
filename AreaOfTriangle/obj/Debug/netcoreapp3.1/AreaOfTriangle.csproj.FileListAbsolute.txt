@@ -1,0 +1,14 @@
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.AssemblyReference.cache
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.exe
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.deps.json
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.json
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.dev.json
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.dll
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+C:\Users\dseid\launchcode\csharp-practice\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.genruntimeconfig.cache
